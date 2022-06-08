@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ricardothe3rd
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning about the innovation of technology
+- 💞️ I’m looking to collaborate with a lot of workmates
+- 📫 How to reach me though email or Follow me on instagram and direct message me at ricardothe3rd
