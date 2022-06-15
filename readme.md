@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricard Argana</h1>
 
-<h3 align="center">I am professional in Quality Assurance and Anspiring to be a Software Developer</h3>
+<h3 align="center">I am professional in Quality Assurance and Anspiring to be a Data Scientist</h3>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rarganaiii@gmail.com**
 
-- ⚡ Fun fact **Computer is a a continues knowledge**
+- ⚡ Fun fact **Computer is a continues knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
