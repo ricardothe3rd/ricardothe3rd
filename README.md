@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricard Argana</h1>
+
 <h3 align="center">I am professional in Quality Assurance and Anspiring to be a Software Developer</h3>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
@@ -34,6 +35,6 @@
 <p><a href="https://www.buymeacoffee.com/ricardothe3rd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ricardothe3rd" /></a></p><br><br>
 <hr>
 
-<p><img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=ricardothe3rd&show_icons=true&locale=en" alt="ricardothe3rd" /></p>
+<p><img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=ricardothe3rd&show_icons=true&locale=en" alt="ricardothe3rd" /></p>
 
-<p><img align="center"  width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardothe3rd&" alt="ricardothe3rd" /></p>
+<p><img align="center"  width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardothe3rd&" alt="ricardothe3rd" /></p>
