@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricard Argana</h1>
 <h3 align="center">I am professional in Quality Assurance and Anspiring to be a Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
+<img align="right" alt="Coding" width="500" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardothe3rd&label=Profile%20views&color=0e75b6&style=flat" alt="ricardothe3rd" /> </p>
