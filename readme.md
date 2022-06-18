@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricard Argana</h1>
 
-<h3 align="center">I am professional in Quality Assurance and Anspiring to be a Data Scientist</h3>
+<h3 align="center">I am professional in Quality Assurance and Anspiring to be a Software Automation</h3>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
 
