@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Argana</h1>
 
-<h3 align="center">I am professional in Quality Assurance and Anspiring to be a Software Automation</h3>
+<h3 align="center">I am professional Quality Assurance Engineer</h3>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/thirdandray" target="blank"><img src="https://img.shields.io/twitter/follow/thirdandray?logo=twitter&style=for-the-badge" alt="thirdandray" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile - Quality Website**
+- 🔭 I’m currently working on **Automation Scripts**
 
-- 🌱 I’m currently learning **WordPress and Python**
+- 🌱 I’m currently learning **Automation Techniques and Tactics**
 
 - 👀 I’m interested in **Technology**
 
