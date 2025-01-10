@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Argana</h1>
 
-<h3 align="center">I am professional Quality Assurance Engineer</h3>
+<h3 align="center">I am Professional Quality Assurance Engineer</h3>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
 
