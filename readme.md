@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Project Management for Web and Applications**
 
-- 🌱 I’m currently learning **Automation Techniques and Tactics**
+- 🌱 I’m currently learning **Handling Multiple Project**
 
 - 👀 I’m interested in **Technology**
 
