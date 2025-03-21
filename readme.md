@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/thirdandray" target="blank"><img src="https://img.shields.io/twitter/follow/thirdandray?logo=twitter&style=for-the-badge" alt="thirdandray" /></a> </p>
 
-- 🔭 I’m currently working on **Automation Scripts**
+- 🔭 I’m currently working on **Project Management for Web and Applications**
 
 - 🌱 I’m currently learning **Automation Techniques and Tactics**
 
