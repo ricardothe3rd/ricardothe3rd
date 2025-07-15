@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Argana</h1>
 
-<h3 align="center">I am Project Manager</h3>
+<h3 align="center">I am AI Full Stack Engineer</h3>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/thirdandray" target="blank"><img src="https://img.shields.io/twitter/follow/thirdandray?logo=twitter&style=for-the-badge" alt="thirdandray" /></a> </p>
 
-- 🔭 I’m currently working on **Project Management for Web and Applications**
+- 🔭 I’m currently working on **GFY (go farm yourself) Website**
 
-- 🌱 I’m currently learning **How to Multiple Project**
+- 🌱 I’m currently learning **AI integrations and Full Stack Development**
 
-- 👀 I’m interested in **Technology**
+- 👀 I’m interested in **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Upwork**
 
-- 💬 Ask me about **QA and IT/Computer problems**
+- 💬 Ask me about **The Future**
 
 - 📫 How to reach me **rarganaiii@gmail.com**
 
