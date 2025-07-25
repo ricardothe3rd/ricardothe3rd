@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Argana</h1>
 
-<h3 align="center">I am AI Full Stack Engineer</h3>
+<h3 align="center">I am Ai Full Stack Engineer</h3>
 <img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
 
