@@ -1,40 +1,128 @@
-<h1 align="center">Hi 👋, I'm Ricardo Argana</h1>
+<div align="center">
 
-<h3 align="center">I am Ai Full Stack Engineer</h3>
-<img align="right" alt="Coding" width="450" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
+     # 💫 About Me
 
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Ricardo+Argana;AI+Full+Stack+Engineer;Welcome+to+my+GitHub!&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22&pause=1000" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardothe3rd&label=Profile%20views&color=0e75b6&style=flat" alt="ricardothe3rd" /> </p>
+     <img align="center" alt="Coding" width="600" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif">
 
-<p align="left"> <a href="https://twitter.com/thirdandray" target="blank"><img src="https://img.shields.io/twitter/follow/thirdandray?logo=twitter&style=for-the-badge" alt="thirdandray" /></a> </p>
+     <p align="center">
+       <img src="https://komarev.com/ghpvc/?username=ricardothe3rd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ricardothe3rd" />
+       <a href="https://twitter.com/thirdandray" target="blank">
+         <img src="https://img.shields.io/twitter/follow/thirdandray?logo=twitter&style=for-the-badge&color=0e75b6" alt="thirdandray" />
+       </a>
+     </p>
 
-- 🔭 I’m currently working on **GFY (go farm yourself) Website**
+     </div>
 
-- 🌱 I’m currently learning **AI integrations and Full Stack Development**
+     ---
 
-- 👀 I’m interested in **Artificial Intelligence**
+     ### 🚀 Current Focus
 
-- 👯 I’m looking to collaborate on **Upwork**
+     ```python
+     class RicardoTheThird:
+         def __init__(self):
+             self.current_project = "GFY (Go Farm Yourself) Website"
+             self.learning = ["AI Integrations", "Full Stack Development"]
+             self.interests = ["Artificial Intelligence", "Future Technologies"]
+             self.collaboration = "Available on Upwork"
+             self.fun_fact = "Computer science is continuous knowledge"
+     ```
 
-- 💬 Ask me about **The Future**
+     ---
 
-- 📫 How to reach me **rarganaiii@gmail.com**
+     ### 📊 GitHub Analytics
 
-- ⚡ Fun fact **Computer is a continues knowledge**
+     <div align="center">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardothe3rd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardothe3rd&layout=compact&langs_count=8&theme=tokyonight"/>
+     </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thirdandray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thirdandray" height="30" width="40" /></a>
-<a href="https://instagram.com/ricardothe3rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricardothe3rd" height="30" width="40" /></a>
-</p>
+     <div align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardothe3rd&theme=tokyonight" alt="ricardothe3rd" />
+     </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+     ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ricardothe3rd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ricardothe3rd" /></a></p><br><br>
-<hr>
+     ### 💻 Tech Stack
 
-<p><img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=ricardothe3rd&show_icons=true&locale=en" alt="ricardothe3rd" /></p>
+     <div align="center">
 
-<p><img align="center"  width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardothe3rd&" alt="ricardothe3rd" /></p>
+     #### Languages
+     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+     #### Frontend
+     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+     #### Database
+     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+     #### Cloud & DevOps
+     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+     #### Design & Tools
+     ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+     ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+     ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+     ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+     #### Automation
+     ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+     </div>
+
+     ---
+
+     ### 🏆 GitHub Trophies
+
+     <div align="center">
+       <img src="https://github-profile-trophy.vercel.app/?username=ricardothe3rd&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+     </div>
+
+     ---
+
+     ### 📈 Contribution Graph
+
+     <div align="center">
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardothe3rd&theme=tokyo-night" />
+     </div>
+
+     ---
+
+     ### 🤝 Connect With Me
+
+     <div align="center">
+
+     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarganaiii@gmail.com)
+     [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thirdandray)
+     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ricardothe3rd)
+
+     </div>
+
+     ---
+
+     ### ☕ Support My Work
+
+     <div align="center">
+       <a href="https://www.buymeacoffee.com/ricardothe3rd">
+         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ricardothe3rd" />
+       </a>
+     </div>
+
+     ---
+
+     <div align="center">
+       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+     </div>
+
+     <div align="center">
+       <b>✨ "The future belongs to those who believe in the beauty of their dreams" ✨</b>
+     </div>
